@@ -1,5 +1,5 @@
 # Bleuvenetal2019
-Jupyter Notebook used for bar-seq library analysis in Bleuvent et al 2019. See the manuscript and the notebook for specific program requirements.
+Jupyter Notebook used for bar-seq library analysis in Bleuven et al 2019. See the manuscript and the notebook for specific program requirements.
 
 * The raw sequencing files should first be downloaded and put in same directory as the notebook, and then renamed to "A.Dube_Cabsoil_p01_c01.fastq.gz". 
 
